@@ -1,0 +1,15 @@
+C:\Weather_Forecast_API\Weather.Repository\bin\Debug\net6.0\Weather.Repository.deps.json
+C:\Weather_Forecast_API\Weather.Repository\bin\Debug\net6.0\Weather.Repository.dll
+C:\Weather_Forecast_API\Weather.Repository\bin\Debug\net6.0\Weather.Repository.pdb
+C:\Weather_Forecast_API\Weather.Repository\bin\Debug\net6.0\Weather.Model.dll
+C:\Weather_Forecast_API\Weather.Repository\bin\Debug\net6.0\Weather.Model.pdb
+C:\Weather_Forecast_API\Weather.Repository\obj\Debug\net6.0\Weather.Repository.csproj.AssemblyReference.cache
+C:\Weather_Forecast_API\Weather.Repository\obj\Debug\net6.0\Weather.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Weather_Forecast_API\Weather.Repository\obj\Debug\net6.0\Weather.Repository.AssemblyInfoInputs.cache
+C:\Weather_Forecast_API\Weather.Repository\obj\Debug\net6.0\Weather.Repository.AssemblyInfo.cs
+C:\Weather_Forecast_API\Weather.Repository\obj\Debug\net6.0\Weather.Repository.csproj.CoreCompileInputs.cache
+C:\Weather_Forecast_API\Weather.Repository\obj\Debug\net6.0\Weather.Repository.csproj.CopyComplete
+C:\Weather_Forecast_API\Weather.Repository\obj\Debug\net6.0\Weather.Repository.dll
+C:\Weather_Forecast_API\Weather.Repository\obj\Debug\net6.0\refint\Weather.Repository.dll
+C:\Weather_Forecast_API\Weather.Repository\obj\Debug\net6.0\Weather.Repository.pdb
+C:\Weather_Forecast_API\Weather.Repository\obj\Debug\net6.0\ref\Weather.Repository.dll
