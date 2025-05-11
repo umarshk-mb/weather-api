@@ -1,4 +1,26 @@
-Below are the screenshots from local host:
+Feel free to fork this project and run it on your computer.
+In detail, the tech stack used to build the weather API using .net Core Web API is listed below:
+
+1. CRUD Operations
+2. In Memory database
+3. Entity Framework
+4. Dependency Injection
+5. (3-tier) Monolithic Architecture: Presentation layer, Repository and Services.
+6. Swagger - debug tool
+7. Logging
+8. Exception handling
+9. Pagination
+10. Searching
+11. Sorting
+12. Dto's
+13. Models
+14. Extensions (Mappers)
+15. MVC
+16. SQL Connection
+17. Auto mapper
+
+
+Below are the screenshots from the local host:
 
 Swagger page:
 
