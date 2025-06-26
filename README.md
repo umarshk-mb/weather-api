@@ -19,12 +19,13 @@ In detail, the tech stack used to build the weather API using .net Core Web API 
 16. SQL Connection
 17. Auto mapper
 
-
 Below are the screenshots from the local host:
 
 Swagger page:
 
 ![image](https://github.com/user-attachments/assets/d5d076da-f5ff-4867-8197-95db1ebba4d3)
+
+Frontend developed using Angular: [Code is available here](https://github.com/umarshk-mb/WeatherForecast.git)
 
 Responsive frontend app view:
 
